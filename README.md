@@ -1,6 +1,7 @@
 # Fork
 
-This is a fork of Snickler.EFCore that is not fluent, and has interfaces for suppting unit tests in your primary code base.
+This is a fork of Snickler.EFCore that is not fluent.
+It has interfaces for unit tests.
 
 Honestly, I recomend using dapper or petapoco for calling stored procedures when using entityframework Core.
 
